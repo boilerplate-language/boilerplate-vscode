@@ -1,5 +1,5 @@
 # For more information, please refer to https://aka.ms/vscode-docker-python
-FROM python:3.6-slim-buster
+FROM python:3.11.0a6-slim-buster
 
 EXPOSE 5000
 
